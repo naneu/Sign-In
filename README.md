@@ -5,7 +5,7 @@ Figma
 
 #### login page
 
-![snippet](/images/login-page.png)
+![snippet](/Images/login-page.png)
 
 #### landing page
 
