@@ -9,4 +9,4 @@ Figma
 
 #### landing page
 
-![snippet](/images/landing-page.png)
+![snippet](/Images/landing-page.png)
